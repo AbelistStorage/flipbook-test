@@ -54,9 +54,9 @@
   width:100%;
   height: calc(100% - 30px) !important; 
 }
-/* .flipbook .viewport .container{
+.flipbook .viewport .container{
   max-width: 100%;
-} */
+}
 .action-bar {
   width: 100%;
   height: 30px;
